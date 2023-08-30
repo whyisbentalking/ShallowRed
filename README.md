@@ -7,3 +7,5 @@ Projections mostly stolen from https://g.espncdn.com/s/ffldraftkit/23/NFLDK2023_
 
 Feel free to clone the repo and use it to win (or lose) your fantasy football leagues. When starting a draft you will have to enter all picks but I've included a sim option if you want a strategy for setting and forgetting your preffered auto draft strategy.
 
+Also, I'm pretty lame, the name of the repo is a reference to deep blue, the ibm chess engine that beat Kasparov.
+
